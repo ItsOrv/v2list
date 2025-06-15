@@ -1,1 +1,4 @@
 vless://4362f4bd-a243-4405-8c05-f6ea48d93b73@IRStatic.LoadBalance.LAT:9565?security=none&type=tcp&headerType=http&path=%2F&host=IRStatic.LoadBalance.LAT#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+
+vless://f93d4836-7bde-4f9b-a1e1-7165854ba52d@2.189.242.233:9565?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%B3%F0%9F%87%B1%20tunnel
