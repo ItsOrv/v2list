@@ -6,3 +6,6 @@ vless://f93d4836-7bde-4f9b-a1e1-7165854ba52d@2.189.242.233:9565?security=none&ty
 
 
 vless://a71df4e1-403f-4874-8ee7-9fdf38278da2@cd2.mobailaliakbarmori.com:8080?path=%2F&security=&alpn=null&encryption=none&type=ws#.
+
+
+vless://c17e3ea4-7cb8-4410-8351-1fcab4977cf1@sherlock-test.abuee422.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sherlock-test.abuee422.workers.dev&fp=chrome&type=ws&sni=sherlock-test.abuee422.workers.dev#bruh
